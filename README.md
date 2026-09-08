@@ -51,7 +51,7 @@ ranked among the top predictors, validating our feature engineering choices.
 |---|---|
 | Qaiser | Problem definition, data ingestion |
 | Aliyya | EDA, data cleaning |
-| [Person 3] | Feature engineering |
+| Qaiser| Feature engineering |
 | Naiba Batool | Model training, evaluation, GitHub workflow, documentation |
 
 ## How to Run
