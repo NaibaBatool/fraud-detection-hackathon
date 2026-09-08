@@ -49,8 +49,8 @@ ranked among the top predictors, validating our feature engineering choices.
 ## Team & Contributions
 | Member | Contribution |
 |---|---|
-| [Person 1] | Problem definition, data ingestion |
-| [Person 2] | EDA, data cleaning |
+| Qaiser | Problem definition, data ingestion |
+| Aliyya | EDA, data cleaning |
 | [Person 3] | Feature engineering |
 | Naiba Batool | Model training, evaluation, GitHub workflow, documentation |
 
